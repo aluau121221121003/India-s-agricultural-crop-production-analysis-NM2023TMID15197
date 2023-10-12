@@ -3,3 +3,4 @@ Dashboard public link 1 :https://public.tableau.com/views/Indianagricultureanaly
 Dashboard public link 2 :https://public.tableau.com/views/Indianagricultureanalysisssnc5/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Dashboard public link 3 :https://public.tableau.com/views/Indianagricultureanalysisssnc6/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 story publish link : https://public.tableau.com/views/Indianagricultureanalysisssnc7/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Video demonstration :https://drive.google.com/file/d/1j6Iu7j5sjPRBUacLa9qC8cJU-cTNtFbL/view?usp=drivesdk
